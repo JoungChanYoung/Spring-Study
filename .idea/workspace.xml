@@ -1,14 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e93c37c2-df9f-4cb1-b398-6ea39b9d8a83" name="Changes" comment="" />
+    <list default="true" id="e93c37c2-df9f-4cb1-b398-6ea39b9d8a83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../algorithm/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1003_피보나치 함수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/10250_ACM호텔.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/10844_쉬운 계단 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/10845_큐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/10866_덱.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1149_RGB거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/11718_그대로출력.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/11720_숫자의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1260_dfs와bfs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/14499_주사위굴리기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/14502_연구소.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1463_1로만들기(dp).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1475_방번호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/14891_톱니바퀴.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1520_내리막 길.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1562_계단 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/15686_치킨배달.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/16236_아기상어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1753_최단경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1920_수 찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1924_요일출력.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1932_정수삼각형(dp).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1977_완전제곱수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1978_소수찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/1991_트리순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2156_포도주시식(dp).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2178_미로탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2252_줄세우기(큐,위상정렬).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2293_동전1(dp).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2309_일곱난쟁이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2455_지능형기차.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2606_바이러스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2740_행렬곱셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2747_피보나치 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2750_수 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2751_수정렬하기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/2902_KMP는왜KMP일까.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/3053_택시 기하학.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/4344_평균은넘겠지.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/4673_셀프넘버.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/6591_이항 쇼다운.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/7576_토마토(bfs).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/9012_괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/baekjoon/9461_파도반수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/programmers/완주하지 못한 선수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/우아한형제들 코딩테스트 2018/카드게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/우아한형제들 코딩테스트 2018/후위연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/카카오 블라인드 테스트 2018/[1차]다트게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/카카오 블라인드 테스트 2018/[1차]비밀지도.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/카카오 블라인드 테스트 2018/[1차]캐시.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/resources/templates/hello-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/templates/hello-template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring/src/test/java/hello/hellospring/repository/MemoryMemberRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/test/java/hello/hellospring/repository/MemoryMemberRepositoryTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26dn8NBnWgO5WZjQvMcKmdiAhOn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +83,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring/build.gradle" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
