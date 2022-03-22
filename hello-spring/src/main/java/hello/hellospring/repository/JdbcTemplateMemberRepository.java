@@ -36,7 +36,6 @@ public class JdbcTemplateMemberRepository implements MemberRepository{
         Number key = jdbcInsert.executeAndReturnKey(new MapSqlParameterSource(parameters));
         member.setId(key.longValue());
         return member;
-
     }
 
     @Override
